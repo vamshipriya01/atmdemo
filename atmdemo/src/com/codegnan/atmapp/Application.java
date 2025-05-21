@@ -2,7 +2,7 @@ package com.codegnan.atmapp;
 
 import java.util.Scanner;
 
-
+//Application class - Main class
 
 public class Application {
 
